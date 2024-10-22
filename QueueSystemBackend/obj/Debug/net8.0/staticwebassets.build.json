@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bFTzO+iTmjDB1gzq7wJIE+YxFzTrFGubwtQWEI5VkOM=",
+  "Source": "QueueSystemBackend",
+  "BasePath": "_content/QueueSystemBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
